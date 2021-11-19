@@ -1,0 +1,34 @@
+/*body{
+   background-image: url('https://wallpapercave.com/dwp1x/s0qJpcO.jpg');
+
+    background-repeat: no-repeat;
+   background-size:cover ;
+
+}*/
+h1 {
+    text-align: center;
+    color:rgb(48, 30, 212);
+    background-color: #62bfdb;
+    font-style: italic;
+    padding: 0.1px;
+    margin: 0;
+}
+ p{
+    font-style: italic;
+    font-family:sans-serif;
+    color: rgb(143, 20, 20);
+}
+ul li{
+   /* backgsround-color: rgba(200, 201, 162, 0.986);*/
+  font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style:italic ;
+    color: rgba(85, 84, 196, 0.527);
+}
+#mountain{
+    display:block;
+    margin-left:auto;
+}
+h2{
+    color: rgb(158, 14, 172);
+    font-style: italic;
+}
